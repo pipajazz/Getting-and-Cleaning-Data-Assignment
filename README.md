@@ -1,4 +1,4 @@
-**Getting and Cleaning Data Course Project***
+**Getting and Cleaning Data Course Project**
 
 This repository is a submission for Getting and Cleaning Data course project. The goal of this project is to prepare tidy data that can be used for analysis. 
 
